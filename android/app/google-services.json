@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093985529453",
+    "firebase_url": "https://parcelproo-default-rtdb.firebaseio.com",
+    "project_id": "parcelproo",
+    "storage_bucket": "parcelproo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093985529453:android:c21ebe1ed0615b180e1964",
+        "android_client_info": {
+          "package_name": "com.parcelroo.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093985529453-l4v05ecsplfoqgi5qcudheln3695f80g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parcelroo.driver",
+            "certificate_hash": "6d17a660834d2f173a94cea017361892d4af2c47"
+          }
+        },
+        {
+          "client_id": "1093985529453-6fo34j317ctm59pj72u4p55jpiggaq75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CISGkIfNvtULK9oOiM4bNWoR7eDn_yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093985529453-6fo34j317ctm59pj72u4p55jpiggaq75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093985529453-rp0ks7dos1dmf3bgnkcjv16qn1ru34qu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.parcel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
